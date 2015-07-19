@@ -1,0 +1,13 @@
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\bin\Debug\TheWayLearnPSO.exe.config
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\bin\Debug\TheWayLearnPSO.exe
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\bin\Debug\TheWayLearnPSO.pdb
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\obj\Debug\TheWayLearnPSO.csprojResolveAssemblyReference.cache
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\obj\Debug\MainWindow.baml
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\obj\Debug\MainWindow.g.cs
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\obj\Debug\App.g.cs
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\obj\Debug\TheWayLearnPSO_MarkupCompile.cache
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\obj\Debug\TheWayLearnPSO.g.resources
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\obj\Debug\TheWayLearnPSO.Properties.Resources.resources
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\obj\Debug\TheWayLearnPSO.csproj.GenerateResource.Cache
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\obj\Debug\TheWayLearnPSO.exe
+c:\users\joker\documents\visual studio 2013\Projects\TheWayLearnPSO\TheWayLearnPSO\obj\Debug\TheWayLearnPSO.pdb
